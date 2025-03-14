@@ -8,3 +8,5 @@ The research has been focused on the flood event type from the US storm events d
 By leveraging GPT-3.5-turbo (ChatGPT engine) using Scikit-LLM library, the aim has been to retrieve features from narrative data related to climate events, and specifically, have been employed zero-shot text classification and embeddings techniques used as data augmentation.
 
 To forecast injuries the performance of the Actuarial models like Generalized Linear Models (GLM), and Generalized Additive Models (GAM) have been compared with Gradient Boosting Machine Learning models like LightGBM, XGBoost, and CATBoost.
+
+Read the paper -> [US Injuries Flood Prediction With Large Language Models Data Augmentation]!(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5120965)
