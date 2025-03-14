@@ -9,4 +9,4 @@ By leveraging GPT-3.5-turbo (ChatGPT engine) using Scikit-LLM library, the aim h
 
 To forecast injuries the performance of the Actuarial models like Generalized Linear Models (GLM), and Generalized Additive Models (GAM) have been compared with Gradient Boosting Machine Learning models like LightGBM, XGBoost, and CATBoost.
 
-Read the paper -> (US Injuries Flood Prediction With Large Language Models Data Augmentation)!(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5120965)
+Read the paper -> [US Injuries Flood Prediction With Large Language Models Data Augmentation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5120965)
