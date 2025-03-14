@@ -11,4 +11,4 @@ To forecast injuries the performance of the Actuarial models like Generalized Li
 
 Read the paper -> [US Injuries Flood Prediction With Large Language Models Data Augmentation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5120965)
 
-Read the slides -> [slides](NTTS2025_Deck_V2.pptx)
+Read the slides -> [slides](NTTS2025_Deck_v2.pptx)
